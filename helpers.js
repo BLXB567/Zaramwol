@@ -1,5 +1,5 @@
 /*
-# Copyright (C) 2020 MuhammedKpln.
+# Copyright (C) 2020 DVT.
 #
 # WhatsAsena is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *zara*:  ```" + msg + "```"
+    return "✅ *DVT*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *zara*:  ```" + msg + "```"
+    return "🛑 *DVT*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *zara*:  ```" + msg + "```"
+    return "⏺️ *DVT*:  ```" + msg + "```"
 }
 
 
