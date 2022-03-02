@@ -1,9 +1,9 @@
 {
-    "name": "Zaramwol",
-    "description": "Zara bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "name": "Miyuki DVT",
+    "description": "Miyuki DVT - re-edited from DVT. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.ibb.co/9rrnJ7g/20210815-080839.jpg",
     "keywords": ["whatsapp", "userbot", "DVT", "Devils v Tiers", "bot", "api", "ai"],
-    "repository": "https://github.com/Jokerser-x-Raashii/Zaramwol",
+    "repository": "https://github.com/BLXB567/Zaramwol",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
